@@ -54,6 +54,8 @@ Open a command prompt and type
 
     cinst easy.install
     cinst pip
+    
+If this doesn't work, please try downloading this script [get-pip.py](https://bootstrap.pypa.io/get-pip.py) and save it as get-pip.py on your filesystem. Then, run the script by opening a command prompt in the folder that you downloaded the script to and run `python get-pip.py`.
 
 
 Now, navigate to the folder where you stored the project. `Shift+Right Click` on
